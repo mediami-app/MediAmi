@@ -1,0 +1,92 @@
+name: Bug report
+description: Something in MediAmi does not work as expected
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ⚠️ Do not paste secrets
+        **Never include API keys, server URLs, hostnames or IP addresses** in this form, in logs or in
+        screenshots. Replace them with placeholders such as `<server>` and blur your screenshots.
+        If you pasted one by mistake, edit this post now and rotate the key in your service.
+  - type: input
+    id: version
+    attributes:
+      label: MediAmi version
+      description: Settings → About.
+      placeholder: "0.1.0 (1)"
+    validations:
+      required: true
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device
+      options:
+        - Mac
+        - iPad
+        - Both
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: macOS or iPadOS version
+      placeholder: "macOS 26.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: service
+    attributes:
+      label: Service involved
+      options:
+        - Radarr
+        - Sonarr
+        - Lidarr
+        - SABnzbd
+        - Overseerr
+        - Jellyseerr
+        - None / the app in general
+    validations:
+      required: true
+  - type: input
+    id: service_version
+    attributes:
+      label: Service version
+      description: The version of the server you connect to, if it applies.
+      placeholder: "Radarr 5.x"
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open …
+        2. Tap …
+        3. See …
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead
+    validations:
+      required: true
+  - type: dropdown
+    id: demo
+    attributes:
+      label: Does it happen in Demo Mode?
+      description: Demo Mode uses sample data and no server. It helps tell app bugs from server issues.
+      options:
+        - Yes
+        - No
+        - I did not try
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or extra context
+      description: Remember to blur server addresses and keys.

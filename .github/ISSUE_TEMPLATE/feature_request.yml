@@ -1,0 +1,50 @@
+name: Feature request
+description: Suggest something MediAmi should do
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the idea! If it is still rough, a [Discussion](https://github.com/finalpets/MediAmi-app/discussions) may be a better start.
+
+        **Never include API keys, server URLs, hostnames or IP addresses.**
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Describe the situation or problem, not only the feature.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like MediAmi to do?
+    validations:
+      required: true
+  - type: dropdown
+    id: service
+    attributes:
+      label: Related service
+      options:
+        - Radarr
+        - Sonarr
+        - Lidarr
+        - SABnzbd
+        - Overseerr
+        - Jellyseerr
+        - Another service I use
+        - The app in general
+    validations:
+      required: true
+  - type: dropdown
+    id: device
+    attributes:
+      label: Where would you use it?
+      options:
+        - Mac
+        - iPad
+        - Both
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you considered
