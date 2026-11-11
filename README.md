@@ -41,6 +41,7 @@ MediAmi is in development and not on the App Store yet. Follow this repository
 | Suggest a feature | [Open an issue](../../issues/new/choose) (feature request), or start a [Discussion](../../discussions) if it is still an idea |
 | Ask a question | [Discussions → Q&A](../../discussions) |
 | See what is planned | The roadmap board in [Projects](../../projects) |
+| Read the privacy policy | [PRIVACY.md](PRIVACY.md) |
 | Report a security problem | [Privately](../../security/advisories/new), see [SECURITY.md](SECURITY.md) |
 
 **Never paste API keys, server URLs, hostnames or IP addresses** into an issue, a discussion or a
