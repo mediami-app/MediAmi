@@ -42,7 +42,7 @@ MediAmi is in development and not on the App Store yet. Follow this repository
 | Ask a question | [Discussions → Q&A](../../discussions) |
 | Visit the website | [mediami.app](https://mediami.app) |
 | Chat with the community and follow news | [r/MediAmi](https://www.reddit.com/r/MediAmi/) on Reddit |
-| Chat and get help from other users | [Discord server](https://discord.gg/eS6dGDJgme) |
+| Chat and get help from other users | [Discord server](https://discord.gg/DgCkXtMSC6) |
 | See what is planned | The roadmap board in [Projects](../../projects) |
 | Read the privacy policy | [PRIVACY.md](PRIVACY.md) |
 | Report a security problem | [Privately](../../security/advisories/new), see [SECURITY.md](SECURITY.md) |
