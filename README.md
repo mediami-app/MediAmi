@@ -40,6 +40,7 @@ MediAmi is in development and not on the App Store yet. Follow this repository
 | Report a bug | [Open an issue](../../issues/new/choose) (bug report) |
 | Suggest a feature | [Open an issue](../../issues/new/choose) (feature request), or start a [Discussion](../../discussions) if it is still an idea |
 | Ask a question | [Discussions → Q&A](../../discussions) |
+| Visit the website | [mediami.app](https://mediami.app) |
 | Chat with the community and follow news | [r/MediAmi](https://www.reddit.com/r/MediAmi/) on Reddit |
 | Chat and get help from other users | [Discord server](https://discord.gg/eS6dGDJgme) |
 | See what is planned | The roadmap board in [Projects](../../projects) |
