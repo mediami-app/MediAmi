@@ -15,6 +15,8 @@ Connect your own servers and manage them from one place, with the look and speed
 - **Activity.** Queue, calendar, history and wanted across every connection, with downloads and
   their speed in one view (SABnzbd included).
 - **Requests.** Browse, request and follow requests from Overseerr or Jellyseerr.
+- **Monitoring.** See who is watching right now and how your server is playing it, with viewing
+  statistics, in a dashboard you arrange (Tautulli).
 - **Private by design.** MediAmi talks directly to your servers. There is no account, no
   analytics, no tracking and no server of ours. Your API keys stay in the Keychain on your device.
 - **Made for the platform.** Liquid Glass design, sidebar navigation, keyboard and VoiceOver
@@ -24,8 +26,8 @@ Connect your own servers and manage them from one place, with the look and speed
 ## Requirements
 
 - A Mac (macOS 26) or an iPad (iPadOS 26).
-- Your own Radarr, Sonarr, Lidarr, SABnzbd or Overseerr/Jellyseerr server, reachable from the
-  device, and its API key.
+- Your own Radarr, Sonarr, Lidarr, SABnzbd, Overseerr/Jellyseerr or Tautulli server, reachable from
+  the device, and its API key.
 
 ## Status
 
@@ -56,7 +58,7 @@ screenshot. If a log contains them, remove them first. More in [CONTRIBUTING.md]
 ## Not affiliated
 
 MediAmi is an independent app. It is not affiliated with or endorsed by Radarr, Sonarr, Lidarr,
-SABnzbd, Overseerr or Jellyseerr. It does not provide, host or download any media: it only talks to
+SABnzbd, Overseerr, Jellyseerr or Tautulli. It does not provide, host or download any media: it only talks to
 the servers you run. All product names belong to their owners and are used here only to say what
 MediAmi connects to.
 
