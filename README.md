@@ -30,8 +30,11 @@ Connect your own servers and manage them from one place, with the look and speed
 ## Status
 
 MediAmi is in development and not on the App Store yet. Follow this repository
-(**Watch → Custom → Releases**) to hear when it ships. Release notes will live in
-[Releases](../../releases).
+(**Watch → Custom → Releases**) to hear when it ships.
+
+Every version's notes are in [Releases](../../releases). The releases here hold **notes only**:
+there is no code and no download attached, and their tags point at this documentation repository.
+Builds reach testers through TestFlight and, from 1.0.0, the App Store.
 
 ## Get involved
 
