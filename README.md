@@ -31,8 +31,10 @@ Connect your own servers and manage them from one place, with the look and speed
 
 ## Status
 
-MediAmi is in development and not on the App Store yet. Follow this repository
-(**Watch → Custom → Releases**) to hear when it ships.
+MediAmi is in **public beta** on TestFlight, for Mac (macOS 26) and iPad (iPadOS 26), and it is not on
+the App Store yet. **[Join the beta](https://testflight.apple.com/join/fptM7mKv)** (it needs Apple's free
+TestFlight app). It is free, with every feature, and Demo Mode works without a server. Follow this
+repository (**Watch → Custom → Releases**) to hear about new versions.
 
 Every version's notes are in [Releases](../../releases). The releases here hold **notes only**:
 there is no code and no download attached, and their tags point at this documentation repository.
