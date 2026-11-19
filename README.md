@@ -40,6 +40,28 @@ Every version's notes are in [Releases](../../releases). The releases here hold 
 there is no code and no download attached, and their tags point at this documentation repository.
 Builds reach testers through TestFlight and, from 1.0.0, the App Store.
 
+## Why MediAmi exists
+
+MediAmi began as a homelab hobby. I have run my own servers for years, and I had always wanted to
+build an app of my own but never found the time. When AI coding tools arrived I hesitated for a while,
+because many people were quickly shipping apps with ideas close to mine. Then my company encouraged
+us to get a Claude Code certification, and I decided to do it properly: I spent about three months
+studying and applied everything I learned, best practices included, to a real project. That project
+became MediAmi.
+
+It is for the Mac and iPad, not the iPhone, on purpose. There are already plenty of iPhone apps for
+this, and I manage my libraries in the Radarr, Sonarr and Lidarr web interfaces on a big screen. I am a
+visual person, and on a phone I cannot see what I am doing clearly.
+
+MediAmi is built with AI assistance (Claude Code), under my direction and review. It is closed source
+for now, and I would rather say that plainly than dodge it. What you can check for yourself is the
+promise: free, with every feature, no account, no tracking, and your API keys stay in the Keychain on
+your device.
+
+If MediAmi saves you time and you would like to help cover the Apple Developer Program and hosting,
+there is an optional [Sponsors page](https://github.com/sponsors/finalpets). Everything stays free
+either way.
+
 ## Get involved
 
 | I want to… | Go to |
