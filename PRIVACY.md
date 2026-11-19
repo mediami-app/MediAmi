@@ -10,8 +10,9 @@ What those servers store is governed by you and by them, not by us.
 
 To show artwork the app loads images from the addresses your servers provide; when a server has
 no copy of a cast photo, the image may be requested from its public source (TMDB's image host).
-If you tap Play Trailer, the trailer plays in YouTube's privacy-enhanced player, which is
-subject to YouTube's own policy; nothing is requested from YouTube before you tap.
+If you tap Play Trailer, or play a video on mediami.app, it plays in YouTube's privacy-enhanced
+player, which is subject to YouTube's own policy; nothing is requested from YouTube before you tap
+or play.
 
 If you turn on download notifications, they are generated on your device from what your server
 reports; no notification service of ours is involved.
@@ -22,4 +23,4 @@ Open a thread in [Discussions](https://github.com/mediami-app/MediAmi/discussion
 post API keys, server addresses or IP addresses there. For security problems see
 [SECURITY.md](SECURITY.md).
 
-Last updated: 2026-11-10.
+Last updated: 2026-11-15.
