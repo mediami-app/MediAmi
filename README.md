@@ -50,6 +50,7 @@ Builds reach testers through TestFlight and, from 1.0.0, the App Store.
 | Visit the website | [mediami.app](https://mediami.app) |
 | Chat with the community and follow news | [r/MediAmi](https://www.reddit.com/r/MediAmi/) on Reddit |
 | Chat and get help from other users | [Discord server](https://discord.gg/DgCkXtMSC6) |
+| Support the project | [Sponsor on GitHub](https://github.com/sponsors/finalpets). MediAmi stays 100% free with every feature for everyone; sponsoring is optional and unlocks nothing |
 | See what is planned | The roadmap board in [Projects](../../projects) |
 | Read the privacy policy | [PRIVACY.md](PRIVACY.md) |
 | Report a security problem | [Privately](../../security/advisories/new), see [SECURITY.md](SECURITY.md) |
