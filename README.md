@@ -1,7 +1,29 @@
+<div align="center">
+
+<img src=".github/assets/mediami-icon.png" alt="MediAmi app icon" width="140" height="140">
+
 # MediAmi
 
-**A native Mac and iPad app for the media services you run yourself.**
+**A native Mac and iPad app for the media services you run yourself.**<br>
 Connect your own servers and manage them from one place, with the look and speed of a built-in app.
+
+[![Status](https://img.shields.io/badge/status-public%20beta-orange?logo=apple&logoColor=white)](https://testflight.apple.com/join/fptM7mKv)
+[![Latest release](https://img.shields.io/github/v/release/mediami-app/MediAmi?label=release&color=blue)](../../releases)
+![macOS 26](https://img.shields.io/badge/macOS-26-lightgrey?logo=apple&logoColor=white)
+![iPadOS 26](https://img.shields.io/badge/iPadOS-26-lightgrey?logo=apple&logoColor=white)
+![Price](https://img.shields.io/badge/price-100%25%20free-brightgreen)
+![Privacy](https://img.shields.io/badge/privacy-no%20account%20%C2%B7%20no%20tracking-success)
+
+![Languages](https://img.shields.io/badge/languages-EN%20%C2%B7%20ES%20%C2%B7%20FR-informational)
+![Source](https://img.shields.io/badge/source-closed-lightgrey)
+[![Website](https://img.shields.io/badge/web-mediami.app-0A64C8)](https://mediami.app)
+[![Discord](https://img.shields.io/badge/chat-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/DgCkXtMSC6)
+[![Reddit](https://img.shields.io/badge/community-r%2FMediAmi-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/r/MediAmi/)
+[![Sponsors](https://img.shields.io/badge/sponsor-optional-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/finalpets)
+
+**[Join the beta](https://testflight.apple.com/join/fptM7mKv)** · **[mediami.app](https://mediami.app)**
+
+</div>
 
 > This repository is the public home of MediAmi: bug reports, ideas, the roadmap and release notes.
 > **The app's source code is private.** There is nothing to build here.
@@ -10,6 +32,8 @@ Connect your own servers and manage them from one place, with the look and speed
 
 - **Movies, series and music.** Browse your libraries, search and add titles, check what is
   missing, change monitoring and run searches (Radarr, Sonarr, Lidarr).
+- **Indexers.** See which of your indexers work, test, add and edit them, search across all of them,
+  read their statistics and keep your apps in sync (Prowlarr).
 - **One dashboard.** A customizable grid of widgets: what is downloading, what is coming up,
   storage, health and more, per connection or all together.
 - **Activity.** Queue, calendar, history and wanted across every connection, with downloads and
@@ -26,7 +50,7 @@ Connect your own servers and manage them from one place, with the look and speed
 ## Requirements
 
 - A Mac (macOS 26) or an iPad (iPadOS 26).
-- Your own Radarr, Sonarr, Lidarr, SABnzbd, Overseerr/Jellyseerr or Tautulli server, reachable from
+- Your own Radarr, Sonarr, Lidarr, Prowlarr, SABnzbd, Overseerr/Jellyseerr or Tautulli server, reachable from
   the device, and its API key.
 
 ## Status
@@ -83,7 +107,7 @@ screenshot. If a log contains them, remove them first. More in [CONTRIBUTING.md]
 ## Not affiliated
 
 MediAmi is an independent app. It is not affiliated with or endorsed by Radarr, Sonarr, Lidarr,
-SABnzbd, Overseerr, Jellyseerr or Tautulli. It does not provide, host or download any media: it only talks to
+Prowlarr, SABnzbd, Overseerr, Jellyseerr or Tautulli. It does not provide, host or download any media: it only talks to
 the servers you run. All product names belong to their owners and are used here only to say what
 MediAmi connects to.
 
